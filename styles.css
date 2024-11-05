@@ -1,0 +1,29 @@
+body {
+    color:rgb(252, 250, 250);
+    margin: 0px;
+    background:rgb(0, 0, 0)
+}
+header{
+    border-bottom: solid 2px rgb(89, 136, 197);
+    padding: 20px;
+    font-size: 32px;
+    color: 2px rgb(96, 160, 243);
+   
+}
+
+section {
+    background: rgb(240, 1, 1);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        display: block;
+        unicode-bidi: isolate;
+    }
+img{
+    height: 200px
+}
+
